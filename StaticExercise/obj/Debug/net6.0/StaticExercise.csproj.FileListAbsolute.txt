@@ -1,0 +1,15 @@
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.deps.json
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.runtimeconfig.json
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.dll
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.pdb
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfo.cs
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.sourcelink.json
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.dll
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/refint/StaticExercise.dll
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.pdb
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.genruntimeconfig.cache
+/Users/carlymead/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/ref/StaticExercise.dll
